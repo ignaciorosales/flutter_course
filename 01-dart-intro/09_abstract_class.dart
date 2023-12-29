@@ -40,7 +40,7 @@ enum PlantType{
 // extends and implements differences
 
 
-class WindPlant extends EnergyPlant{
+class WindPlant extends EnergyPlant{ 
   
   WindPlant({ required double initialEnergy })
     : super( energyLeft: initialEnergy, type: PlantType.wind );
