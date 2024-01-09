@@ -40,4 +40,11 @@ const appMenuItems = <MenuItem>[
     link: '/snackbars',
     icon: Icons.info_outline
   ),
+
+  MenuItem(
+    title: 'UI Controls + Tiles',
+    subTitle: 'Some Flutter controls',
+    link: '/ui-controls',
+    icon: Icons.car_rental_outlined
+  ),
 ];
