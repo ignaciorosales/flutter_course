@@ -71,8 +71,6 @@ class _InfiniteScrollScreenState extends State<InfiniteScrollScreen> {
     addFiveImages();
 
     setState(() {});
-    
-
   }
 
 
@@ -85,7 +83,6 @@ class _InfiniteScrollScreenState extends State<InfiniteScrollScreen> {
       duration: const Duration(milliseconds: 300), 
       curve: Curves.fastOutSlowIn
     );
-
   }
 
 
