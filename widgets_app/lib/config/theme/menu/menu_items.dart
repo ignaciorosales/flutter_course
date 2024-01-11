@@ -61,4 +61,11 @@ const appMenuItems = <MenuItem>[
     link: '/infinite',
     icon: Icons.list_alt_rounded
   ),
+
+  MenuItem(
+    title: 'Counter Screen (Riverpod)',
+    subTitle: 'State Manager',
+    link: '/counter',
+    icon: Icons.list_alt_rounded
+  ),
 ];
