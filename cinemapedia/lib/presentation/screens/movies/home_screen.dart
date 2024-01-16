@@ -1,4 +1,3 @@
-import 'package:cinemapedia/presentation/screens/movies/providers/movies/movies_providers.dart';
 import 'package:cinemapedia/presentation/screens/movies/providers/movies/movies_slideshow_provider.dart';
 import 'package:cinemapedia/presentation/screens/movies/providers/providers.dart';
 import 'package:cinemapedia/presentation/widgets/widgets.dart';
